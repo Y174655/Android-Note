@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WordBookAndroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="searchresult"></string>
+    <string name="gameques"></string>
+    <string name="gameas1"></string>
+     <string name="gameas2"></string>
+      <string name="gameas3"></string>
+       <string name="gameas4"></string>
+       <string name="scores"></string>
+
+</resources>
